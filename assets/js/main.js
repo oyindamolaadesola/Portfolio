@@ -1,8 +1,8 @@
 /**
 * Template Name: iPortfolio - v3.7.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template URL: https://Oyindamolaportfolio.vercel.app/
+* Author: Oyindamola 
+* License: https://Oyindamolaportfolio.vercel.app/
 */
 (function() {
   "use strict";
